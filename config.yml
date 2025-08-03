@@ -1,0 +1,3 @@
+source_folder: "../auto-backup"
+backup_folder: "./backups"
+log_file: "logs/backup.log"

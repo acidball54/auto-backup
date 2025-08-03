@@ -17,3 +17,4 @@ last_hash.json
 Thumbs.db
 # Ignore virtual environment directories
 venv/
+hash_record.json

@@ -1,0 +1,19 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore backup files
+*.zip
+
+# Ignore logs and backup folders
+logs/
+backups/
+
+# Ignore config-sensitive or generated files
+last_hash.json
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+# Ignore virtual environment directories
+venv/
